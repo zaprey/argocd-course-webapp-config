@@ -8,7 +8,7 @@ image:
   repository: zaprey/repo
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: e357eb436f1910dfcdcf09cc04ca5806f3d4c142
+  tag: 2a1eda35bc3c3e121f211da6d1ca9a5be76ad11d
 
 imagePullSecrets: []
 nameOverride: ""
